@@ -1,4 +1,4 @@
-# CIS200: Assembly Language Program for String Reversal
+# CIS310: Assembly Language Program for String Reversal
 
 ## Student Name and Email
 Leah Mirch (lmirch@umich.edu)
