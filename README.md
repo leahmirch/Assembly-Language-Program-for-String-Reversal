@@ -91,5 +91,3 @@ The program displays the original string "Leah Mirch" followed by its reversed v
 
 ### Program Execution
 ![Screenshot 2](./Screenshot%202.png)
-
-This README.md file provides a comprehensive overview of the assembly language project, including the program's purpose, code explanation, running instructions, and screenshots of the output.
